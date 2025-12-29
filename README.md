@@ -17,7 +17,7 @@
  
 <div align="right">
   <!-- 🇵🇰 Alternative Animated Pakistan Flag GIF 🇵🇰 -->
-  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0012.gif" alt="Animated Pakistan Flag" width="200"/>
+  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0012.gif" alt="Animated Pakistan Flag" width="100"/>
 </div>
 
 

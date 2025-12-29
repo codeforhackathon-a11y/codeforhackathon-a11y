@@ -12,9 +12,10 @@
 <img height="100" alt="_________________________________________________________________________________________________________________" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <div align="center">
 <!-- 🇵🇰 Pakistan Flag 🇵🇰 -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Pakistan.png" alt="Pakistan Flag" width="150"/>   <h1>💫 Hey, I'm Fazal Qadir</h1>   <p>Hi 👋 🏆🔥</p>
+ <div align="center">
+  <!-- 🇵🇰 Pakistan Flag 🇵🇰 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="300"/>
 </div>
-
 
 
 

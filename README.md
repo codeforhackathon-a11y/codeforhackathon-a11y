@@ -6,20 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Salam!+I'm+Fazal+Qadir;Student+at+PUCIT+%F0%9F%8E%93;Strengthening+core+coding+skills+%F0%9F%92%BB;Logic+building+in+progress+%F0%9F%A7%A0;Solutions+coming+soon!+%E2%9C%A8&center=true&size=25&duration=4000&color=008000&vCenter=true&width=600" alt="Typing SVG"/>
   </a>
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codeforhackathon-a11y&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
 <br/>
 <img align="right" height="350px" width="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
- 
+ ##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/imanishbarnwal) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

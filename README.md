@@ -1,7 +1,4 @@
-<div align="center">
-  <!-- 🇵🇰 Animated Pakistan Flag 🇵🇰 -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Pakistan.png" alt="Pakistan Flag" width="100"/>
-  
+</div>
   <h1>💫 Hey, I'm Fazal Qadir</h1>
 
   <!-- Typing Animation -->

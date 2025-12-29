@@ -14,7 +14,7 @@
 <!-- 🇵🇰 Pakistan Flag 🇵🇰 -->
  <div align="center">
   <!-- 🇵🇰 Pakistan Flag 🇵🇰 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="100"/>
 </div>
 
 

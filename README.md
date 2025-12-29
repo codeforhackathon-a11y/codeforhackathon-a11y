@@ -22,7 +22,7 @@ Original
 Modified
 <div align="center">
   <!-- 🇵🇰 Animated Pakistan Flag GIF 🇵🇰 -->
-  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="250"/>
+  <img src="https://www.animatedimages.org/data/media/850/animated-pakistan-flag-image-0015.gif" alt="Animated Pakistan Flag" width="150"/>
 </div>
 
 
